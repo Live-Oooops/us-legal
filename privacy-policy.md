@@ -1,5 +1,7 @@
 # Us Privacy Policy
 
+[Support](index.html) · [Terms of Use](terms-of-use.html) · [Account Deletion](account-deletion.html)
+
 Effective date: September 16, 2026
 
 Us is a private shared space for two people. This Privacy Policy explains how the Us iOS application collects, uses, shares, and protects information.
