@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Us support and privacy information
+    url: https://live-oooops.github.io/us-legal/
+    about: Review support guidance, privacy information, and account-deletion instructions before opening a public issue.
