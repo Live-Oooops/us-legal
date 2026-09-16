@@ -1,5 +1,7 @@
 # Delete Your Us Account
 
+[Support](index.html) · [Privacy Policy](privacy-policy.html) · [Terms of Use](terms-of-use.html)
+
 You can permanently delete your Us account from inside the app:
 
 1. Open **Us** and sign in with Apple.
