@@ -1,0 +1,54 @@
+name: Us support request
+description: Ask for help with the Us iOS app without posting private app content.
+title: "[Support] "
+labels:
+  - support
+body:
+  - type: markdown
+    attributes:
+      value: |
+        GitHub issues are public. Do not include email addresses, Apple credentials, invite codes, task or wish text, uploaded files, screenshots containing private content, or other sensitive information.
+
+        For account-deletion assistance, only state that you cannot use the in-app deletion flow. Support will arrange any required verification through a private channel.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Topic
+      options:
+        - Sign in with Apple
+        - Partner invite or pairing
+        - Shared content or synchronization
+        - Notifications
+        - Account deletion
+        - Privacy request
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: app-version
+    attributes:
+      label: Us version
+      description: Find this in the App Store or TestFlight build information.
+      placeholder: "1.0 (6)"
+    validations:
+      required: true
+  - type: input
+    id: ios-version
+    attributes:
+      label: iOS or iPadOS version
+      placeholder: "iOS 26.0"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the visible behavior and the steps that led to it. Remove all private content.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
