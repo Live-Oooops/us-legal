@@ -1,5 +1,7 @@
 # Us Support
 
+[Privacy Policy](privacy-policy.html) · [Terms of Use](terms-of-use.html) · [Account Deletion](account-deletion.html)
+
 Us is a private shared space for two people. For help with signing in, connecting a partner, synchronization, account deletion, privacy, or another issue, open a request at https://github.com/Live-Oooops/us-legal/issues/new.
 
 GitHub issues are public. Do not include private task or wish text, uploaded files, invite codes, Apple credentials, email addresses, or other sensitive information. For account-deletion assistance, only state that you need help; support may move verification to a private channel.
@@ -20,4 +22,4 @@ Confirm that both devices are online and both users are signed in. Close and reo
 
 ### Delete my account
 
-Open **Us → Couple settings → Delete account** and confirm. See the account-deletion guide for details.
+Open **Us → Couple settings → Delete account** and confirm. See the [account-deletion guide](account-deletion.html) for details.
