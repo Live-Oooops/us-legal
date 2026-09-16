@@ -1,5 +1,7 @@
 # Us Terms of Use
 
+[Support](index.html) · [Privacy Policy](privacy-policy.html) · [Account Deletion](account-deletion.html)
+
 Effective date: September 16, 2026
 
 These Terms of Use govern your use of the Us iOS application and related services. By signing in or using Us, you agree to these terms and the Us Privacy Policy. Apple’s Standard Licensed Application End User License Agreement also applies to the iOS application; if these terms conflict with that agreement, the terms that provide the required rights to Apple and users control.
